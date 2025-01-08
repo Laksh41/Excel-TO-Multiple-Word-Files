@@ -46,4 +46,5 @@ To use the application, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Laksh41/Excel-TO-Multiple-Word-Files.git
+   
