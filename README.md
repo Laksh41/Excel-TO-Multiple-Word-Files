@@ -1,4 +1,4 @@
-EXCEL-TO-WORD-PYTHON-AUTHORITY_LETTER# Mail Merge Application
+EXCEL-TO-WORD-PYTHON-# Mail Merge Application
 
 This application performs a mail merge operation by reading data from an Excel file and generating Word documents based on a template. The application uses a graphical user interface (GUI) built with Tkinter to select the template, Excel file, and output folder.
 
